@@ -24,7 +24,6 @@ def Exps():
         <script>window.alert("{}");</script>
         <script>window.location.href="/"</script>
         '''.format(echo.strip('、'))
-    print(type(os))
     return html
 
 
