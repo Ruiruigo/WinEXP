@@ -1,0 +1,63 @@
+CVE-2019-1405									Win10	Win2019		
+CVE-2019-1388							Win7		Win10			
+CVE-2019-0803		Win2008	Win2012				Win7	Win8	Win10	Win2019		
+CVE-2018-8897		Win2008	Win2012				Win7	Win8	Win10			
+CVE-2018-8639		Win2008	Win2012	Win2016			Win7	Win8	Win10			
+CVE-2018-1038		Win2008					Win7					
+CVE-2018-0734									Win10			
+CVE-2018-8453								Win8	Win10	Win2019		
+CVE-2018-8440		Win2008	Win2012	Win2016			Win7	Win8	Win10			
+CVE-2018-0833			Win2012					Win8				
+CVE-2018-8121	Win2003	Win2008				XP	Win7					
+CVE-2018-8120		Win2008					Win7					
+CVE-2018-0824		Win2008	Win2012	Win2016			Win7		Win10			
+CVE-201-8464		Win2008		Win2016			Win7	Win8	Win10		Win2010	
+CVE-2017-0213		Win2008		Win2016			Win7	Win8	Win10		Win2010	
+MS17-017							Win7	Win8				
+MS17-010	Win2003	Win2008				XP	Win7					
+MS16-135				Win2016								
+MS16-111								Win8	Win10			
+MS16-098								Win8				
+MS16-075	Win2003	Win2008	Win2012				Win7	Win8				
+MS16-034 　		Win2008	Win2012				Win7	Win8	Win10			
+MS16-032		Win2008	Win2012				Win7	Win8	Win10			
+MS16-016		Win2008			Vista		Win7					
+MS16-014		Win2008			Vista		Win7					
+MS15-097			Win2012					Win8				
+MS15-076	Win2003	Win2008	Win2012				Win7	Win8				
+MS15-077	Win2003	Win2008	Win2012		Vista	XP	Win7	Win8				Win2000
+MS15-061	Win2003	Win2008	Win2012				Win7	Win8				
+MS15-051	Win2003	Win2008	Win2012				Win7	Win8				
+MS15-015		Win2008	Win2012				Win7	Win8				
+MS15-010	Win2003	Win2008					Win7	Win8				
+MS15-001		Win2008	Win2012				Win7	Win8				
+CVE-2014-1767	Win2003	Win2008	Win2012		Vista		Win7	Win8				
+MS14-070	Win2003											
+MS14-068	Win2003	Win2008	Win2012				Win7	Win8				
+MS14-066	Win2003	Win2008	Win2012		Vista		Win7	Win8				
+MS14-058	Win2003	Win2008	Win2012				Win7	Win8				
+MS14-040	Win2003	Win2008	Win2012				Win7	Win8				
+MS14-002	Win2003					XP						
+MS13-053	Win2003	Win2008			Vista	XP	Win7					
+MS13-046	Win2003	Win2008	Win2012		Vista		Win7					
+MS13-005	Win2003	Win2008	Win2012				Win7	Win8				
+MS12-042		Win2008	Win2012				Win7					
+MS12-020	Win2003	Win2008				XP	Win7					
+MS11-080	Win2003					XP						
+MS11-062	Win2003					XP						
+MS11-046	Win2003	Win2008				XP	Win7					
+MS11-011	Win2003	Win2008			Vista	XP	Win7					
+MS10-092		Win2008					Win7
+MS10-059		Win2008			Vista		Win7					
+MS10-048	Win2003	Win2008			Vista	XP	Win7					
+MS10-015	Win2003	Win2008				XP	Win7					
+MS10-012		Win2008					Win7					
+MS09-050		Win2008			Vista
+MS09-012		Win2008			Vista		Win7					
+MS08-068						XP						Win2000
+MS08-067	Win2003	Win2008			Vista	XP						Win2000
+MS08-066	Win2003					XP						Win2000
+MS08-025	Win2003	Win2008			Vista	XP						
+MS06-040	Win2003					XP						Win2000
+MS05-039	Win2003					XP						Win2000
+MS03-026	Win2003					XP						Win2000

@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+  <meta charset="UTF-8">
+  <title>提权辅助</title>
+    <link href="{{ url_for('static', filename='css/amazeui.min.css') }}" rel="stylesheet">
+  <style>
+    .about-color {
+      color: #34495e;
+    }
+
+    .zong {
+        margin-left: 15px;
+    }
+
+    .AVname {
+        width: 550px;
+        position: absolute; 
+        left: 575px
+    }
+
+    .systeminfo {
+        width: 550px;
+    }
+  </style>
+</head>
+<body>
+    <br>
+    <div class="zong">
+        <div>
+            <h3>说明：此工具作为Windows提权时辅助工具，以及杀软进程查询。</h3>
+            <p>请将<code>systeminfo</code>信息复制到文本栏，如：<br>
+            主机名:           xxxx<br>
+            OS 名称:          Microsoft Windows Server 2008 R2 Standard<br>
+            .....<br>
+            修补程序:         安装了 3 个修补程序。<br>
+                            [01]: KB2360937<br>
+                            [02]: KB2478960<br>
+            </p>
+        </div> 
+        <div class="AVname">
+            <form class="am-form" action="/AVname" method="POST">
+            <div class="am-form-group">
+                <label class="about-color">命令：tasklist /svc (杀软查询)</label>
+                <textarea name="av" class rows="16" style="resize:none" id="av"></textarea>
+            </div>
+                <button type="submit" class="am-btn am-btn-primary am-btn-sm"><i class="am-icon-check"></i> 查 询</button>
+            </form>
+        </div>
+        <div class="systeminfo">
+            <form class="am-form" action="/WinExp" method="POST">
+            <div class="am-form-group">
+                <label class="about-color">命令：systeminfo</label>
+                <textarea name="systeminfo" class rows="16" style="resize:none" id="systeminfo"></textarea>
+            </div>
+                <button type="submit" class="am-btn am-btn-primary am-btn-sm"><i class="am-icon-check"></i> 查 询</button>
+                 <tr>
+            </form>
+        </div> 
+    </div>
+
+</body>
+</html>
